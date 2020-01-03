@@ -4,6 +4,7 @@ A news Flutter application.
 
 ![alt text](https://raw.githubusercontent.com/saketp18/new_flutter_app/master/screenshots/screenshot.png =371X763)
 
+<img src="https://raw.githubusercontent.com/saketp18/new_flutter_app/master/screenshots/screenshot.png" width="200" height="400" />
 
 ## Getting Started
 
