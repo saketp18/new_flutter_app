@@ -2,7 +2,7 @@
 
 A news Flutter application.
 
-![alt text](https://raw.githubusercontent.com/saketp18/new_flutter_app/master/screenshots/screenshot.png | width=371 | height = 763)
+![alt text](https://raw.githubusercontent.com/saketp18/new_flutter_app/master/screenshots/screenshot.png =371X763)
 
 
 ## Getting Started
