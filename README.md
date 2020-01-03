@@ -1,6 +1,9 @@
-# new_flutter_app
+# news_flutter_app
 
-A new Flutter application.
+A news Flutter application.
+
+![alt text](https://raw.githubusercontent.com/saketp18/new_flutter_app/master/screenshots/screenshot.png)
+
 
 ## Getting Started
 
