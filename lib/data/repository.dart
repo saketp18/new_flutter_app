@@ -11,7 +11,7 @@ class Repository {
 
   Future<NewsResponse> fetchNews() async {
     final response = await http.get(
-        'https://newsapi.org/v2/everything?q=$NEWS_TOPIC&from=2019-12-03&sortBy=publishedAt&apiKey=$API_KEY&page=$PAGE&pageSize=$PAGE_SIZE');
+        'https://newsapi.org/v2/everything?q=$NEWS_TOPIC&sortBy=publishedAt&apiKey=$API_KEY&page=$PAGE&pageSize=$PAGE_SIZE');
 
     if (response.statusCode == 200) {
       return NewsResponse.fromJson(json.decode(response.body));
